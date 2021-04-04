@@ -1,3 +1,4 @@
+// worked with gardner
 document.querySelectorAll('.complete-button').forEach((button) => {
   button.addEventListener('click', completeOrder)
 })
