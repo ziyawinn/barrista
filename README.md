@@ -1,6 +1,10 @@
-# [Project Name]
+# [Barrista]
 
-![(description)](https://raw.githubusercontent.com/your github username/repo name/main/file name.PNG)
+![full stack](https://github.com/ziyawinn/barrista/edit/main/README.md)
+
+
+
+
 a full stack application that allows users and server side to make orders with a dealetion atribution 
 
 ## How It's Made:
